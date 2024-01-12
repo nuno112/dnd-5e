@@ -45,7 +45,7 @@ The content is released in books by Wizards of The Coast (WoTC), which you can b
 - [Additional Ready-to-Play Characters](https://media.wizards.com/2015/downloads/dnd/CharacterSheets1-10.zip)
 	- These are not character sheets, but just a summary of the characters.
 - [MPMB's Character sheet on steroids](https://drive.google.com/file/d/1X8vYfzIfO-z6r_T8QEl8uX3j9SiWtZ8A/view?usp=drive_link)
-	- This is a fully automated character sheet that tou can then print. Normally thuis only has basic SRD content, but this one has almost everything from official releases to choose from. *Not exactly "legal"* :speak_no_evil:
+	- This is a fully automated character sheet that tou can then print. Normally thuis only has basic SRD content, but this one has almost everything from official releases to choose from. :speak_no_evil:
 	- Requires desktop version of Adobe Acrobat DC (Reader, Pro, or Standard). Reader is free.
 
 ### Other stuff
@@ -67,14 +67,14 @@ More than the rules and mechanics of the game, D&D is a *roleplaying* game. This
 
 - [5e tools](https://5e.tools/index.html]) :fire::fire: 
 	- Contains basically everything created in the official D&D 5e universe: spells, races, classes, items, monsters, etc. You can read and search the content of the books.
-	- *Not exactly "legal"* :speak_no_evil:, but better than paying probably more than 1k$ for the books and stuff.
+	- :speak_no_evil:, but better than paying probably more than 1k$ for the books and stuff.
 	- Also has some tools.
 - [List of Free WotC Dungeons and Dragons Resources](https://onwaterdeep.blogspot.com/2021/07/list-of-free-dungeons-and-dragons.html)
 	- unlinke the previous, this one lists free stuff released by WoTC, though most of it is previews and small stuff. Sort of like demos.
 - [New Player's Guide links](https://www.dndbeyond.com/tag/new-players-guide)
 	- Some are already linekd in this document directly.
 - [My personal repository](https://drive.google.com/drive/folders/1Zh3rKC29JAmjgBWoLEmMSypL5uJxdTum?usp=sharing)
-	- Contains a bunch of different stuff, some *not exactly "legal"* :speak_no_evil:.
+	- Contains a bunch of different stuff, some :speak_no_evil:.
 		- Books
 		- Semi-made and empty character sheets
 		- Basics documents
